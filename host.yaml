@@ -1,0 +1,9 @@
+---
+R1:
+ hostname: 'sox-nxos-mgmt.cisco.com'
+ port:     '8181'
+ username: 'admin'
+ password: 'Admin_1234!'
+ groups:
+  - group_nxos
+  

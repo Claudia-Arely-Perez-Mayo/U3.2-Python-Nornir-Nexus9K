@@ -1,0 +1,10 @@
+-
+ventory:
+    plugin: SimpleInventory
+    options:
+        host_file: "H:EJEMPLOS DE PYTHON/NORNIR/Nexus/host.yaml"
+        group_file: "H:EJEMPLOS DE PYTHON/NORNIR/Nexus/groups.yaml"
+nner:
+plugin: threaded
+options:
+  num_workers: 20

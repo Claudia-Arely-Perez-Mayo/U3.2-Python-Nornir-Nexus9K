@@ -2,7 +2,7 @@
 ventory:
     plugin: SimpleInventory
     options:
-        host_file: "H:EJEMPLOS DE PYTHON/NORNIR/Nexus/host.yaml"
+        host_file: "H:EJEMPLOS DE PYTHON/NORNIR/Nexus/hosts.yaml"
         group_file: "H:EJEMPLOS DE PYTHON/NORNIR/Nexus/groups.yaml"
 nner:
 plugin: threaded

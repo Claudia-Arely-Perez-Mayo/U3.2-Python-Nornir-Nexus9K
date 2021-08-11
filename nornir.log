@@ -1,0 +1,5 @@
+2021-08-11 15:16:00,401 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_file': 'Nexus.txt'} on 1 hosts
+2021-08-11 15:16:10,783 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_file': 'vlan.txt'} on 1 hosts
+2021-08-11 15:16:17,172 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface lo 6', 'description config con Nornir 3.1.0', 'ip add 6.6.6.6/32']} on 1 hosts
+2021-08-11 15:16:19,119 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show ip int brief'} on 1 hosts
+2021-08-11 15:16:19,700 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan b'} on 1 hosts

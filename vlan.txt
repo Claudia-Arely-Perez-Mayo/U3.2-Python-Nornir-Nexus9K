@@ -30,3 +30,4 @@ exit
 interface ethernet 1/12
 sw mode access
 sw access vlan 12
+exit
